@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SliderRootViewController.h
 //  SliderMenu
 //
 //  Created by Wynter on 15/12/31.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SliderRootViewController : UIViewController
 
 @end
-
